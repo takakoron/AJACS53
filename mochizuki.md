@@ -216,7 +216,7 @@
 
 6. 解析を続けます。真ん中の「Functional Annotation Tool」をクリックします。
 7. 「Gene Ontology」をクリックすると、Gene Ontologyを用いた解析の細かいメニューが表示されます。
-
+ 
  [![Gyazo](http://i.gyazo.com/38905ceb16d6b702059667e4fb404531.png)](http://gyazo.com/38905ceb16d6b702059667e4fb404531)
 
 8. 今回は、GOTERM_BP_FAT (BP = Biological Process)に注目します。その右の「Chart」をクリックすると結果がポップアップされます。 
