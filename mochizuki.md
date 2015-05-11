@@ -41,13 +41,14 @@
  
 - DDBJ Read Annotation Pipeline とは
     - [DDBJ Pipeline 基礎部](http://https://p.ddbj.nig.ac.jp)
-	- [DDBJ Pipeline 高次処理部](https://p-galaxy.ddbj.nig.ac.jp/)
-	 [![Gyazo](https://i.gyazo.com/37af6d0d753d3ab2430cb9a5be9e66c5.png)](http://gyazo.com/37af6d0d753d3ab2430cb9a5be9e66c5)
+    - [DDBJ Pipeline 高次処理部](https://p-galaxy.ddbj.nig.ac.jp/)
+    [![Gyazo](https://i.gyazo.com/37af6d0d753d3ab2430cb9a5be9e66c5.png)](http://gyazo.com/37af6d0d753d3ab2430cb9a5be9e66c5)
 	
 - DNApod: DNA Polymorphism AnnOtation Database とは   
-    - [「DNApod」](http://tga.nig.ac.jp/dnapod/)
-	 [![Gyazo](https://i.gyazo.com/thumb/200/_75ea5dcf078a81b2a2f35ca560d79925.png)](http://gyazo.com/_75ea5dcf078a81b2a2f35ca560d7992)
-　 - 本日の講習はDNApod ワークフローの講習になります。
+    - [DNApod](http://tga.nig.ac.jp/dnapod/)
+    - 本日の講習はDNApod ワークフローの講習になります。
+    [![Gyazo](https://i.gyazo.com/thumb/200/_75ea5dcf078a81b2a2f35ca560d79925.png)](http://gyazo.com/_75ea5dcf078a81b2a2f35ca560d7992)
+　 
 
 - DRAデータサーチ方法
     - [「DBCLS SRA Metadata Search」](http://sra.dbcls.jp/search)
