@@ -47,7 +47,7 @@
 - DNApod: DNA Polymorphism AnnOtation Database とは   
     - [DNApod](http://tga.nig.ac.jp/dnapod/)
     - 本日の講習はDNApod ワークフローの講習になります。
-    [![Gyazo](https://i.gyazo.com/thumb/200/_75ea5dcf078a81b2a2f35ca560d79925.png)](http://gyazo.com/_75ea5dcf078a81b2a2f35ca560d7992)
+    [![Gyazo](https://i.gyazo.com/25ddf18a2e72095e5c46e6f89712e32f.png)](http://gyazo.com/25ddf18a2e72095e5c46e6f89712e32f)
 　 
 
 - DRAデータサーチ方法
