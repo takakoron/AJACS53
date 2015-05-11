@@ -46,7 +46,7 @@
 	
 - DNApod: DNA Polymorphism AnnOtation Database とは   
     - [「DNApod」](http://motdb.dbcls.jp/?AJACS32%2Fbono)
-	 [![Gyazo](https://i.gyazo.com/thumb/200/_2b88afa426f4b3e1546e9e2c939876ce.png)](http://gyazo.com/_2b88afa426f4b3e1546e9e2c939876ce)
+	 [![Gyazo](https://i.gyazo.com/thumb/200/_75ea5dcf078a81b2a2f35ca560d79925.png)]
 　本日の講習はDNApod ワークフローの講習になります。
 
 - DRAデータサーチ方法
