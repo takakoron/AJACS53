@@ -60,34 +60,36 @@
 - 本日の実習の流れ  
 [![Gyazo](https://i.gyazo.com/c0da4201432980d7ac4df772d8657d91.png)](http://gyazo.com/c0da4201432980d7ac4df772d8657d91)
 
-1. DDBJ Pipeline 基礎処理部へアクセスします。
+1. DDBJ Pipeline 基礎処理部へのアクセス
 　[![Gyazo](https://i.gyazo.com/313e0ec0855cee473ed7ce68c5514c33.png)](http://gyazo.com/313e0ec0855cee473ed7ce68c5514c33)
 
-2. DDBJ pipeline 基礎部へログインします。
+2. DDBJ pipeline 基礎部へのログイン
 　講習用のID と パスワードでログインしてください。
 　ご自分のデータでの解析を行う場合は、アカウントを取得してください。  
 　[![Gyazo](https://i.gyazo.com/4a347a701d0c80b831364a620f116082.png)](http://gyazo.com/4a347a701d0c80b831364a620f116082)
 
-3. クエリを選択します。
+3. クエリの選択
 　今回の講習用データは、DRAの公開データを使用します。
 　まず、DRAからデータインポートを行ってから、クエリデータを確認します。
 　[![Gyazo](https://i.gyazo.com/7036d30fe0cb46575089f5fd92a5273f.png)](http://gyazo.com/7036d30fe0cb46575089f5fd92a5273f)
 
-4. マッピングツールを選択します。
+4. マッピングツールの選択
 　今回はbwaを使ってマッピングしていきます。
 　各ツールの説明は、Tool名のリンクをクリックしてください。各Toolのwebサイトで確認することができます。
 　[![Gyazo](http://i.gyazo.com/a0ad1cddb783899078deec0c3fc0e23d.png)](http://gyazo.com/a0ad1cddb783899078deec0c3fc0e23d)
 
-5. クエリセットを作成します。
+5. クエリセットの作成
 　クエリに使用するRun accessionが複数ある場合、この機能を使用します。 
 　今回はRun accessionが1つしかないので、あまり気にせず、セット作成を行って下さい。
 　[![Gyazo](https://i.gyazo.com/9c895effcc6c40baeabbd289832b1d37.png)](http://gyazo.com/9c895effcc6c40baeabbd289832b1d37)
 
-6. リファレンスを指定します。
-　今回の講習で使用する "Escherichia coli O157:H7 str. Sakai" のRefSeq ID
- [![Gyazo](https://i.gyazo.com/f8b7141f9671f769a41f0882f854800a.png)](http://gyazo.com/f8b7141f9671f769a41f0882f854800a)
+6. リファレンスの指定
+　今回の講習では、ローカルファイルをアップロードすることでリファレンスを指定する。
+　リファレンスFASTAファイルはこちらからダウンロードしてください。
+   [Escherichia coli O157:H7 str. Sakai](ftp://tga.nig.ac.jp/dnapod/sequence1.fasta)
+  [![Gyazo](https://i.gyazo.com/f8b7141f9671f769a41f0882f854800a.png)](http://gyazo.com/f8b7141f9671f769a41f0882f854800a)
 
-7. 実行パラメータを設定します。
+7. 実行パラメータを設定
  [![Gyazo](https://i.gyazo.com/82f49bc5ad01f6d1eabb5dc2275d9186.png)](http://gyazo.com/82f49bc5ad01f6d1eabb5dc2275d9186)
 
 8. 実行条件の確認
