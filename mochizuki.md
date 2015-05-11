@@ -47,7 +47,7 @@
 - DNApod: DNA Polymorphism AnnOtation Database とは   
     - [DNApod](http://tga.nig.ac.jp/dnapod/)
     - 本日の講習はDNApod ワークフローの講習になります。
-    [![Gyazo](https://i.gyazo.com/thumb/200/_75ea5dcf078a81b2a2f35ca560d79925.png)](http://gyazo.com/_75ea5dcf078a81b2a2f35ca560d7992)
+	 [![Gyazo](https://i.gyazo.com/334f97458ccbe790417fd25cadef0c8b.png)](http://gyazo.com/334f97458ccbe790417fd25cadef0c8b)
 　 
 
 - DRAデータサーチ方法
@@ -58,62 +58,66 @@
 
 ####【実習】DNA多型注釈 DNApod ワークフロー 
 - 本日の実習の流れ  
+[![Gyazo](https://i.gyazo.com/c0da4201432980d7ac4df772d8657d91.png)](http://gyazo.com/c0da4201432980d7ac4df772d8657d91)
 
 1. DDBJ Pipeline 基礎処理部へアクセスします。
-　
+　[![Gyazo](https://i.gyazo.com/313e0ec0855cee473ed7ce68c5514c33.png)](http://gyazo.com/313e0ec0855cee473ed7ce68c5514c33)
 
 2. DDBJ pipeline 基礎部へログインします。
 　講習用のID と パスワードでログインしてください。
 　ご自分のデータでの解析を行う場合は、アカウントを取得してください。  
+　[![Gyazo](https://i.gyazo.com/4a347a701d0c80b831364a620f116082.png)](http://gyazo.com/4a347a701d0c80b831364a620f116082)
 
 3. クエリを選択します。
 　今回の講習用データは、DRAの公開データを使用します。
 　まず、DRAからデータインポートを行ってから、クエリデータを確認します。
+　[![Gyazo](https://i.gyazo.com/7036d30fe0cb46575089f5fd92a5273f.png)](http://gyazo.com/7036d30fe0cb46575089f5fd92a5273f)
 
 4. マッピングツールを選択します。
 　今回はbwaを使ってマッピングしていきます。
 　各ツールの説明は、Tool名のリンクをクリックしてください。各Toolのwebサイトで確認することができます。
-
+　[![Gyazo](http://i.gyazo.com/a0ad1cddb783899078deec0c3fc0e23d.png)](http://gyazo.com/a0ad1cddb783899078deec0c3fc0e23d)
 
 5. クエリセットを作成します。
 　クエリに使用するRun accessionが複数ある場合、この機能を使用します。 
 　今回はRun accessionが1つしかないので、あまり気にせず、セット作成を行って下さい。
+　[![Gyazo](https://i.gyazo.com/9c895effcc6c40baeabbd289832b1d37.png)](http://gyazo.com/9c895effcc6c40baeabbd289832b1d37)
 
 6. リファレンスを指定します。
 　今回の講習で使用する "Escherichia coli O157:H7 str. Sakai" のRefSeq ID
-
- [![Gyazo](http://i.gyazo.com/b60518629c6dd0fe8163776cc7824a3c.png)](http://gyazo.com/b60518629c6dd0fe8163776cc7824a3c)
+ [![Gyazo](https://i.gyazo.com/f8b7141f9671f769a41f0882f854800a.png)](http://gyazo.com/f8b7141f9671f769a41f0882f854800a)
 
 7. 実行パラメータを設定します。
+ [![Gyazo](https://i.gyazo.com/82f49bc5ad01f6d1eabb5dc2275d9186.png)](http://gyazo.com/82f49bc5ad01f6d1eabb5dc2275d9186)
 
 8. 実行条件の確認
-
- [![Gyazo](http://i.gyazo.com/78a17e8253cb9ed64f6becf96b5a1e03.png)](http://gyazo.com/78a17e8253cb9ed64f6becf96b5a1e03)
+ [![Gyazo](https://i.gyazo.com/382d82ab63c5944bb1791dc74ffd39d6.png)](http://gyazo.com/382d82ab63c5944bb1791dc74ffd39d6)
 
 9. 実行結果の確認
+ [![Gyazo](https://i.gyazo.com/08a355e0594e12819d5353c5f6dd5456.png)](http://gyazo.com/08a355e0594e12819d5353c5f6dd5456)
 
 10. 実行結果の確認　-詳細-
+ [![Gyazo](https://i.gyazo.com/104efad3bf5dc1834dcce4f2ce26fc3e.png)](http://gyazo.com/104efad3bf5dc1834dcce4f2ce26fc3e)
 
-11. 高次処理部 (p-galaxy) へのアクセス
-12. 高次処理部へのログイン
+11. 基礎処理部のログアウト
+ [![Gyazo](https://i.gyazo.com/257fe530ee42a382543e43fc29443eef.png)](http://gyazo.com/257fe530ee42a382543e43fc29443eef)
+
+12. 高次処理部 (p-galaxy) へのアクセス
+ [![Gyazo](https://i.gyazo.com/22b1f42c50b89656e13630b7863ede55.png)](http://gyazo.com/22b1f42c50b89656e13630b7863ede55)
+
+13. 高次処理部 (p-galaxy) へのログイン
+　[![Gyazo](https://i.gyazo.com/e988ad50319a380c727d24f068351afa.png)](http://gyazo.com/e988ad50319a380c727d24f068351afa)
 
 13.  ヒストリーの作成
+　[![Gyazo](https://i.gyazo.com/3bec493e88e0b79e1bde46c1ba01a33e.png)](http://gyazo.com/3bec493e88e0b79e1bde46c1ba01a33e)
 
 14. 礎処理部のsamtools mpileupデータインポート
-
+　[![Gyazo](http://i.gyazo.com/755f1f489b922504800257c76ca9ee19.png)](http://gyazo.com/755f1f489b922504800257c76ca9ee19)
 15. ホモSNPsの検出
- - [肝臓特異的遺伝子の検索結果一覧](http://refex.dbcls.jp/genelist.php?lang=ja&db=human&roku_valid=1&rk[31]=31&order_key=score)に移動して、3つの遺伝子を「リストに追加」してみましょう。
- - 追加した件数は「リストを見る」の横に表示されます。
- - 「リストを見る」をクリックするとリストに移動します。
- - 『並べて表示する』にチェックを入れて、「遺伝子を並べて表示」をクリックします。
- - 並列に比較することで見えてくる「違い」はなんでしょうか。
-
- [![Gyazo](http://i.gyazo.com/f832aab525efcbd99854b8c920be0fcf.png)](http://gyazo.com/f832aab525efcbd99854b8c920be0fcf)  
- [![Gyazo](http://i.gyazo.com/0c604ddeee80bf4adf14ce52876a5744.png)](http://gyazo.com/0c604ddeee80bf4adf14ce52876a5744)
-
-16. SNPsアノテーション SnpEff DBダウンロード
+　[![Gyazo](http://i.gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e.png)](http://gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e)
 
 17. SNPsアノテーション SnpEff
+　[![Gyazo](http://i.gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e.png)](http://gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e)
 
 18. SNPsアノテーション SnpEff 出力ファイル (1)
 
