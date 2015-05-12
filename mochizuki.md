@@ -71,7 +71,8 @@
 
 3. クエリの選択
 　今回の講習用データは、DRAの公開データを使用します。<br>　　
-　まず、DRAからデータインポートを行ってから、クエリデータを確認します。
+　今回の講習で使用するERA013525のデータは既にインポート済みですが、実際にDRAのデータを解析したい場合は、データインポートを行ってください。また、ご自分のローカルPCにあるFastq fileを使用して解析したい場合は、FTP uploadの機能が使えます。<br>
+　DRAのデータフォーマットの意味は、[DDBJ Sequence Read Archive Handbook](http://trace.ddbj.nig.ac.jp/dra/submission.html) をご確認下さい。 <br>
 　[![Gyazo](https://i.gyazo.com/7036d30fe0cb46575089f5fd92a5273f.png)](http://gyazo.com/7036d30fe0cb46575089f5fd92a5273f)
 
 4. マッピングツールの選択
@@ -91,7 +92,8 @@
   [![Gyazo](https://i.gyazo.com/f8b7141f9671f769a41f0882f854800a.png)](http://gyazo.com/f8b7141f9671f769a41f0882f854800a)
 
 7. 実行パラメータを設定
-  必要に応じて実行パラメータを変更してください。
+  必要に応じて実行パラメータを変更してください。<br>
+  パラメータの詳細は、各ツールのHELPをご確認下さい。
  [![Gyazo](https://i.gyazo.com/82f49bc5ad01f6d1eabb5dc2275d9186.png)](http://gyazo.com/82f49bc5ad01f6d1eabb5dc2275d9186)
 
 8. 実行条件の確認
@@ -115,7 +117,7 @@
 13.  ヒストリーの作成
 　[![Gyazo](https://i.gyazo.com/3bec493e88e0b79e1bde46c1ba01a33e.png)](http://gyazo.com/3bec493e88e0b79e1bde46c1ba01a33e)
 
-14. 礎処理部のsamtools mpileupデータインポート
+14. 基礎処理部のsamtools mpileupデータインポート
 　[![Gyazo](http://i.gyazo.com/755f1f489b922504800257c76ca9ee19.png)](http://gyazo.com/755f1f489b922504800257c76ca9ee19)
 15. ホモSNPsの検出
 　[![Gyazo](http://i.gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e.png)](http://gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e)
