@@ -52,7 +52,7 @@
 
 - DRAデータサーチ方法
     - [DBCLS SRA Metadata Search](http://sra.dbcls.jp/search)
-    - [マニュアル](http://sra.dbcls.jp/search)
+    - [マニュアル](https://github.com/inutano/soylatte/blob/master/README.md)
 	 [![Gyazo](https://i.gyazo.com/6eed94c401664483d46a7e8c6e0318ab.png)](http://gyazo.com/6eed94c401664483d46a7e8c6e0318ab)
   
 ----
