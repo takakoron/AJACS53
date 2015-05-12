@@ -52,8 +52,8 @@
 
 - DRAデータサーチ方法
     - [DBCLS SRA Metadata Search](http://sra.dbcls.jp/search)
-    - [マニュアル]
-	 [![Gyazo](https://i.gyazo.com/a4b6c469ee25478a1ad1a35d6e903d6c.png)](http://gyazo.com/a4b6c469ee25478a1ad1a35d6e903d6c)
+    - [マニュアル](http://sra.dbcls.jp/search)
+	 [![Gyazo](https://i.gyazo.com/6eed94c401664483d46a7e8c6e0318ab.png)](http://gyazo.com/6eed94c401664483d46a7e8c6e0318ab)
   
 ----
 
@@ -62,20 +62,20 @@
 [![Gyazo](https://i.gyazo.com/c0da4201432980d7ac4df772d8657d91.png)](http://gyazo.com/c0da4201432980d7ac4df772d8657d91)
 
 1. DDBJ Pipeline 基礎処理部へのアクセス
-　[![Gyazo](https://i.gyazo.com/313e0ec0855cee473ed7ce68c5514c33.png)](http://gyazo.com/313e0ec0855cee473ed7ce68c5514c33)
+　[![Gyazo](https://i.gyazo.com/441ce21443bbd8c8b7a6e1238bd3565b.png)](http://gyazo.com/441ce21443bbd8c8b7a6e1238bd3565b)
 
 2. DDBJ pipeline 基礎部へのログイン
-　講習用のID と パスワードでログインしてください。　　
+　講習用のID と パスワードでログインしてください。<br>　　
 　ご自分のデータでの解析を行う場合は、アカウントを取得してください。  
 　[![Gyazo](https://i.gyazo.com/4a347a701d0c80b831364a620f116082.png)](http://gyazo.com/4a347a701d0c80b831364a620f116082)
 
 3. クエリの選択
-　今回の講習用データは、DRAの公開データを使用します。　　
+　今回の講習用データは、DRAの公開データを使用します。<br>　　　
 　まず、DRAからデータインポートを行ってから、クエリデータを確認します。
 　[![Gyazo](https://i.gyazo.com/7036d30fe0cb46575089f5fd92a5273f.png)](http://gyazo.com/7036d30fe0cb46575089f5fd92a5273f)
 
 4. マッピングツールの選択
-　今回はbwaを使ってマッピングしていきます。　　
+　今回はbwaを使ってマッピングしていきます。<br>　
 　各ツールの説明は、Tool名のリンクをクリックしてください。各Toolのwebサイトで確認することができます。
 　[![Gyazo](http://i.gyazo.com/a0ad1cddb783899078deec0c3fc0e23d.png)](http://gyazo.com/a0ad1cddb783899078deec0c3fc0e23d)
 
