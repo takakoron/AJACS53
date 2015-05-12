@@ -86,8 +86,9 @@
 
 6. リファレンスの指定
 　今回の講習では、ローカルファイルをアップロードすることでリファレンスを指定する。<br>
-　リファレンスFASTAファイルはこちらからダウンロードしてください。
-   [Escherichia coli_ O157:H7 str. Sakai](ftp://tga.nig.ac.jp/dnapod/sequence1.fasta)
+　リファレンスFASTAファイルはこちらからダウンロードしてください。<br>
+  - [Escherichia coli_ O157:H7 str. Sakai](https://p.ddbj.nig.ac.jp)
+  - [Escherichia coli_ O157:H7 str. Sakai](ftp://tga.nig.ac.jp/dnapod/sequence1.fasta)
   [![Gyazo](https://i.gyazo.com/f8b7141f9671f769a41f0882f854800a.png)](http://gyazo.com/f8b7141f9671f769a41f0882f854800a)
 
 7. 実行パラメータを設定
