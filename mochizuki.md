@@ -52,6 +52,7 @@
 
 - DRAデータサーチ方法
     - [DBCLS SRA Metadata Search](http://sra.dbcls.jp/search)
+    - [マニュアル]
 	 [![Gyazo](https://i.gyazo.com/a4b6c469ee25478a1ad1a35d6e903d6c.png)](http://gyazo.com/a4b6c469ee25478a1ad1a35d6e903d6c)
   
 ----
