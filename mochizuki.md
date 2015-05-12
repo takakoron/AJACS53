@@ -7,7 +7,7 @@
 
 ----
 
-これは統合データベース講習会 御茶ノ水「DDBJ Pipelineを用いたDNA多型注釈解析の実習」の資料です。(br）  
+これは統合データベース講習会 御茶ノ水「DDBJ Pipelineを用いたDNA多型注釈解析の実習」の資料です。　　  
 講習会全体のプログラムは[こちら](http://events.biosciencedbc.jp/training/ajacs53)です。  
 
 ----
