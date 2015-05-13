@@ -126,7 +126,7 @@
 　[![Gyazo](http://i.gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e.png)](http://gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e)
 
 17. SNPsアノテーション SnpEff
-　[![Gyazo](http://i.gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e.png)](http://gyazo.com/e1a7cf108db815d2e5dcb13faa7c637e)
+　[![Gyazo](https://i.gyazo.com/204fea97753f174ddd1a04d9d68e6a76.png)](http://gyazo.com/204fea97753f174ddd1a04d9d68e6a76)
 
 18. SNPsアノテーション SnpEff 出力ファイル (1) アノテーション情報
   [![Gyazo](https://i.gyazo.com/633d54210a50a47ee0f0916327a979c0.png)](http://gyazo.com/633d54210a50a47ee0f0916327a979c0)
