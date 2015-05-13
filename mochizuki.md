@@ -99,7 +99,7 @@
 8. 実行条件の確認
  [![Gyazo](https://i.gyazo.com/382d82ab63c5944bb1791dc74ffd39d6.png)](http://gyazo.com/382d82ab63c5944bb1791dc74ffd39d6)
 
-9. 実行結果の確認
+9. 実行結果の確認<br>
  高次処理部にて、基礎部の実行結果をインポートする。その際に、JOBIDが必要になるので覚えておく。<br>
  今回の例のJOBIDは17855。
  [![Gyazo](https://i.gyazo.com/08a355e0594e12819d5353c5f6dd5456.png)](http://gyazo.com/08a355e0594e12819d5353c5f6dd5456)
@@ -119,7 +119,7 @@
 13.  ヒストリーの作成
 　[![Gyazo](https://i.gyazo.com/3bec493e88e0b79e1bde46c1ba01a33e.png)](http://gyazo.com/3bec493e88e0b79e1bde46c1ba01a33e)
 
-14. 基礎処理部のsamtools mpileupデータインポート
+14. 基礎処理部のsamtools mpileupデータインポート<br>
 　今回の例のJOBIDは17855。このIDの結果をインポートする。
 　[![Gyazo](http://i.gyazo.com/755f1f489b922504800257c76ca9ee19.png)](http://gyazo.com/755f1f489b922504800257c76ca9ee19)
 15. ホモSNPsの検出
