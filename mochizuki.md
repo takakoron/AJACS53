@@ -18,7 +18,7 @@
 
 ----
 
-## 講習の流れ
+## 講習の流れ<br>
 今回の講習では、コンピュータを使って以下の内容について説明します。
 
 【実習】
@@ -64,39 +64,39 @@
 1. DDBJ Pipeline 基礎処理部へのアクセス
 　[![Gyazo](https://i.gyazo.com/441ce21443bbd8c8b7a6e1238bd3565b.png)](http://gyazo.com/441ce21443bbd8c8b7a6e1238bd3565b)
 
-2. DDBJ pipeline 基礎部へのログイン
+2. DDBJ pipeline 基礎部へのログイン<br>
 　講習用のID と パスワードでログインしてください。<br>　
 　ご自分のデータでの解析を行う場合は、アカウントを取得してください。  
 　[![Gyazo](https://i.gyazo.com/4a347a701d0c80b831364a620f116082.png)](http://gyazo.com/4a347a701d0c80b831364a620f116082)
 
-3. クエリの選択
+3. クエリの選択<br>
 　今回の講習用データは、DRAの公開データを使用します。<br>　　
 　今回の講習で使用するERA013525のデータは既にインポート済みですが、実際にDRAのデータを解析したい場合は、データインポートを行ってください。また、ご自分のローカルPCにあるFastq fileを使用して解析したい場合は、FTP uploadの機能が使えます。<br>
 　DRAのデータフォーマットの意味は、[DDBJ Sequence Read Archive Handbook](http://trace.ddbj.nig.ac.jp/dra/submission.html) をご確認下さい。 <br>
 　[![Gyazo](https://i.gyazo.com/7036d30fe0cb46575089f5fd92a5273f.png)](http://gyazo.com/7036d30fe0cb46575089f5fd92a5273f)
 
-4. マッピングツールの選択
+4. マッピングツールの選択<br>
 　今回はbwaを使ってマッピングしていきます。<br>
 　各ツールの説明は、Tool名のリンクをクリックしてください。各Toolのwebサイトで確認することができます。
 　[![Gyazo](http://i.gyazo.com/a0ad1cddb783899078deec0c3fc0e23d.png)](http://gyazo.com/a0ad1cddb783899078deec0c3fc0e23d)
 
-5. クエリセットの作成
+5. クエリセットの作成<br>
 　クエリに使用するRun accessionが複数ある場合、この機能を使用します。<br>
 　今回はRun accessionが1つしかないので、あまり気にせず、セット作成を行って下さい。
 　[![Gyazo](https://i.gyazo.com/9c895effcc6c40baeabbd289832b1d37.png)](http://gyazo.com/9c895effcc6c40baeabbd289832b1d37)
 
-6. リファレンスの指定
+6. リファレンスの指定<br>
 　今回の講習では、ローカルファイルをアップロードすることでリファレンスを指定する。<br>
 　リファレンスFASTAファイルはこちらからダウンロードしてください。<br>
   - Escherichia coli_ O157:H7 str. Sakai (ftp://tga.nig.ac.jp/dnapod/sequence1.fasta)
   [![Gyazo](https://i.gyazo.com/f8b7141f9671f769a41f0882f854800a.png)](http://gyazo.com/f8b7141f9671f769a41f0882f854800a)
 
-7. 実行パラメータを設定
+7. 実行パラメータを設定<br>
   必要に応じて実行パラメータを変更してください。<br>
   パラメータの詳細は、各ツールのHELPをご確認下さい。
  [![Gyazo](https://i.gyazo.com/82f49bc5ad01f6d1eabb5dc2275d9186.png)](http://gyazo.com/82f49bc5ad01f6d1eabb5dc2275d9186)
 
-8. 実行条件の確認
+8. 実行条件の確認<br>
  [![Gyazo](https://i.gyazo.com/382d82ab63c5944bb1791dc74ffd39d6.png)](http://gyazo.com/382d82ab63c5944bb1791dc74ffd39d6)
 
 9. 実行結果の確認<br>
@@ -136,7 +136,7 @@
 
 ----
 
-講習は以上です。
-お疲れ様でした。
+講習は以上です。<br>
+お疲れ様でした。<br>
 
 ご不明点があれば、pipeline_dev@ddbj.nig.ac.jp へお問い合わせください。
