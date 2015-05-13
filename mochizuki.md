@@ -130,7 +130,7 @@
 
 18. SNPsアノテーション SnpEff 出力ファイル (1) アノテーション情報
    各フィールドの詳細はSnpEffのサイトを参照 (http://snpeff.sourceforge.net/SnpEff_manual.html#input)
-  [![Gyazo](https://i.gyazo.com/633d54210a50a47ee0f0916327a979c0.png)](http://gyazo.com/633d54210a50a47ee0f0916327a979c0)
+  [![Gyazo](https://i.gyazo.com/9474a911542bd7344e8aaa833592c661.png)](http://gyazo.com/9474a911542bd7344e8aaa833592c661)
 
 19. SNPsアノテーション SnpEff 出力ファイル (2) 統計情報
   [![Gyazo](https://i.gyazo.com/a51cf957360b8e886a587be9f36117bf.png)](http://gyazo.com/a51cf957360b8e886a587be9f36117bf)
